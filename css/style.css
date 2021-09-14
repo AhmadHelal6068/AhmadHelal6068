@@ -28,7 +28,7 @@ li{
 /* Start Glopal Clasis */
 .container{
     width: 85%;
-    max-width: 95%;
+    max-width: 1200px;
     margin: 0 auto;
 }
 .pading-100{
@@ -464,8 +464,9 @@ li{
 }
 .landing .container{
     display: flex;
-    width: 100%;
-    height: 100%;
+    /* width: 100%;
+    max-width: 1200px;
+    height: 100%; */
     align-items: center;
 }
 .landing .box{
